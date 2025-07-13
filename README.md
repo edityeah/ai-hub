@@ -1,12 +1,29 @@
-# AssemblyAI Audio Analysis Toolkit
+# AI-Powered Audio Analysis Toolkit
 
-This project demonstrates how to build an audio analysis system powered by AssemblyAI and the Model Context Protocol (MCP).
+A powerful, Python-based toolkit for transcribing and analyzing audio using [AssemblyAI](https://www.assemblyai.com/).  
 
 We use the following tech stack:
 
 - AssemblyAI for audio transcription and analysis (audio-RAG)
 - Streamlit for the interactive web UI
 - Cursor as the MCP host for programmatic access
+
+## 🚀 Features
+
+### Audio Transcription
+- Speaker-labeled, timestamped transcription
+- Supports `.mp3`, `.wav`, `.mp4`, `.m4a`, and `.flac`
+
+### Audio Intelligence & Analysis
+- Sentiment detection (Positive/Neutral/Negative)
+- Speaker diarization
+- Topic extraction (IAB categories)
+- Auto-summary generation
+- Ask-anything chatbot based on transcript
+
+### Dual Modes of Use
+1. **Streamlit UI** – For interactive web usage  
+2. **MCP Server (Model Context Protocol)** – For Claude + Cursor integration
 
 ## Setup and Installation
 
@@ -114,5 +131,12 @@ Ideally, we’d all love to understand what an API is, how to talk to your cowor
 ## Contribution
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests with your improvements.
+
+## Author
+Aditya Chaudhari
+🚀 Building AI-first products at scale
+🔗 Visit My Blog
+🐦 @adityeah
+📬 Contact Me
 
 
