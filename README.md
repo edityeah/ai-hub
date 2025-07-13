@@ -121,7 +121,6 @@ You can now ingest your audio files, retrieve relevant data, and query it all us
 
 ## 📬 Stay Updated with MY Newsletter!
 
-
 Our lives are dominated by software, but we don’t understand it very well!
 You might work at a tech company, a bank, a financial services firm, or in healthcare, but there’s one common thread that pervades your professional circles: software. This is probably one of the 8+ hours a day that you spend using your phone or computer (check your screen time: it’s depressing). And man, software is complicated.
 
@@ -133,10 +132,6 @@ Ideally, we’d all love to understand what an API is, how to talk to your cowor
 Contributions are welcome! Feel free to fork this repository and submit pull requests with your improvements.
 
 ## Author
-Aditya Chaudhari
-🚀 Building AI-first products at scale
-🔗 Visit My Blog
-🐦 @adityeah
-📬 Contact Me
-
-
+Aditya Chaudhari <br>
+🚀 Building AI-first products at scale <br>
+🔗 Visit My Blog: https://adityeah.in/
