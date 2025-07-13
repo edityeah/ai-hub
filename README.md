@@ -105,10 +105,11 @@ You can now ingest your audio files, retrieve relevant data, and query it all us
 ## 📬 Stay Updated with MY Newsletter!
 
 
-[!Our lives are dominated by software, but we don’t understand it very well!
+Our lives are dominated by software, but we don’t understand it very well!
 You might work at a tech company, a bank, a financial services firm, or in healthcare, but there’s one common thread that pervades your professional circles: software. This is probably one of the 8+ hours a day that you spend using your phone or computer (check your screen time: it’s depressing). And man, software is complicated.
 
-Ideally, we’d all love to understand what an API is, how to talk to your coworkers about programming languages, and why your laptop won’t connect to the goddamn airport WiFi. But this stuff is hard. You’ve tried googling things you don’t get, but every concept seems to require understanding another concept, and the people writing these guides aren’t very…er…engaging. That’s what this blog is for.](https://adityeah.in/)
+Ideally, we’d all love to understand what an API is, how to talk to your coworkers about programming languages, and why your laptop won’t connect to the goddamn airport WiFi. But this stuff is hard. You’ve tried googling things you don’t get, but every concept seems to require understanding another concept, and the people writing these guides aren’t very…er…engaging. That’s what this blog is for.
+(https://adityeah.in/)
 
 ## Contribution
 
